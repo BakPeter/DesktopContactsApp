@@ -18,6 +18,5 @@
             <Button Content="Save"
                     Click="saveButton_Click" />
         </StackPanel>
-
     </Grid>
 </Window>
